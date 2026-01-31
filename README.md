@@ -35,12 +35,12 @@ This script performs compositional optimization using a genetic algorithm guided
 ```bash
 python Model.py
 
-2.Run the genetic algorithm optimization:
+2. Run the genetic algorithm optimization:
 python ga_alloy_design.py
 
-Dependencies
+3. Dependencies
 Python ≥ 3.8
-Required packages:
+4. Required packages:
 numpy
 pandas
 scikit-learn
